@@ -11,7 +11,7 @@ def send_motivational_quote(message):
         connection.starttls()
         connection.login(email, password)
         connection.sendmail(from_addr=email,
-                            to_addrs="erlingoce@gmail.com",
+                            to_addrs="mail@gmail.com",
                             msg=f"Subject:Quote of the Day\n\n{message}")
 
 
