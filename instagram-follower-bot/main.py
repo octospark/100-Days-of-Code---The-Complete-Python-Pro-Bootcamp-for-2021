@@ -4,8 +4,8 @@ import random
 
 CHROME_WEBDRIVER_PATH = 'C:/Development/chromedriver.exe'
 SIMILAR_ACCOUNTS = ['maniaket_e_librit', 'thenie_shkrime_madheshtore', 'zgjohu1']
-USERNAME = 'mendoj_pra_jam'
-PASSWORD = 'tetralog'
+USERNAME = 'USERNAME'
+PASSWORD = 'PASSWORD'
 
 
 class InstaFollower:
